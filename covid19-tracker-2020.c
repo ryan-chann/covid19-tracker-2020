@@ -1,5 +1,5 @@
 /*
-   Program Name : RYAN CHAN JOON YEW.c
+   Program Name : covid19-tracker-2020.c
    Written By : Ryan Chan Joon Yew
    Date : 27/7/2020
    Purpose : To record daily number of covid-19 cases
