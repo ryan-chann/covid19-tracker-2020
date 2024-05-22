@@ -1,6 +1,7 @@
 # Covid 19 Tracker  
 **Author**: Ryan Chan  
 **Date**: 27/7/2020  
+**Project Type**: Prototype
   
 **Purpose**:  
 A small project to learn the fundamentals of programming with C programming language  
